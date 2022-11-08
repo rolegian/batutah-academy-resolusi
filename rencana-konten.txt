@@ -1,6 +1,9 @@
 Rencana konten Batutah Acaddemy
 - Vlog
-(kuliah, makan)
+(kuliah, praktikum)
 - Tutorial
 (matlab, fortran, htl, javascript)
 - Trip
+(Yogya, Semarang, Kediri)
+- Mukbang
+(makan streetfood)
