@@ -3,7 +3,8 @@ Rencana konten Batutah Acaddemy
 (kuliah, praktikum)
 - Tutorial
 (matlab, fortran, htl, javascript)
-- Trip
+- Trip 
 (Yogya, Semarang, Kediri)
+- Komentar kondisi masa kini (kecapi)
 - Mukbang
 (makan streetfood)
