@@ -1,4 +1,5 @@
 Rencana konten Batutah Acaddemy
 - Vlog
 - Tutorial
+(matlab, fortran, htl, javascript)
 - Trip
