@@ -1,4 +1,8 @@
 Resolusi Batutah Academy 2023:
--Konsisten membuat konten 
+- Konsisten membuat konten 
 - perancangan vidio yang lebih baik lagi
-- optimasi website
+- membuat tutorial pemrograman(matlab, python, fortran, html, css)
+
+Pengelolaan website:
+- Buat program magang
+- program brand ambassador
