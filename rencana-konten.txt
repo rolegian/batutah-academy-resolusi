@@ -4,3 +4,4 @@ Rencana konten Batutah Acaddemy
 - Tutorial
 (matlab, fortran, htl, javascript)
 - Trip
+- Komentar kondisi masa kini (kecapi)
